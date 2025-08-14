@@ -6,17 +6,13 @@
  * and output using System.out.println()
  */
 
-public class Lab1_FirstName_LastName
+public class Lab1_digimax_dungo
 {
     public static void main(String[] args)
     {
-        // Step 1: Declare a String variable
-        // Choose a meaningful name like: message, statement, whyStatement, etc.
-        // Example: String message;
+        String message;
         
-        // Step 2: Assign a String value to your variable
-        // Write a sentence about why you want to be a programmer
-        // Example: message = "I want to be a programmer because I enjoy solving problems.";
+        message = "I want to be a programmer because I enjoy solving problems.";
         // Note: Replace the example with your own personal statement
         
         // Step 3: Display your String variable using println()
